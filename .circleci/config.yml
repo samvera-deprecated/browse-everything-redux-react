@@ -11,7 +11,7 @@ jobs:
       - run:
           name: Check for 'master' branch
           command: |
-              git fetch --all --quiet --prune --prune-tags
+              git fetch --all --quiet --prune
               if [[ -n "$(git branch --all --list master */master)" ]]; then
                   echo "A branch named 'master' was found. Please remove it."
                   echo "$(git branch --all --list master */master)"
