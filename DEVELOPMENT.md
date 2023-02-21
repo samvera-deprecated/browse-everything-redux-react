@@ -42,7 +42,7 @@ environment for the React app:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/samvera-labs/browse-everything-redux-react.git
+git clone https://github.com/samvera-deprecated/browse-everything-redux-react.git
 ```
 
 2. Install the package dependencies
