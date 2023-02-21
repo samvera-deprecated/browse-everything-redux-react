@@ -1,7 +1,11 @@
-# BrowseEverything Redux/
+# BrowseEverything Redux (Deprecated)
+[![Samvera Deprecated](https://img.shields.io/badge/samvera-deprecated-inactive)](https://github.com/samvera-deprecated)
+
+*This project has been deprecated and is no longer being actively developed by members of the Samvera Community.*
+
 _A [React](https://reactjs.org/) and [Redux](https://redux.js.org/) user interface implementation for the [BrowseEverything Core Component](https://github.com/samvera/browse-everything)_
 
-[![CircleCI](https://circleci.com/gh/samvera-labs/browse-everything-redux-react.svg?style=svg)](https://circleci.com/gh/samvera-labs/browse-everything-redux-react)
+[![CircleCI](https://circleci.com/gh/samvera-deprecated/browse-everything-redux-react.svg?style=svg)](https://circleci.com/gh/samvera-deprecated/browse-everything-redux-react)
 
 Jump in: [![Slack Status](http://slack.samvera.org/badge.svg)](http://slack.samvera.org/)
 
@@ -87,4 +91,4 @@ This software has been developed by and is brought to you by the Samvera communi
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/samvera-labs/browse-everything-redux-react/.
+Bug reports and pull requests are welcome on GitHub at https://github.com/samvera-deprecated/browse-everything-redux-react/.
